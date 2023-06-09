@@ -10,9 +10,9 @@
 <div>
  
 <div class="object-card">
-      <h2>추천</h2>
-      <p>랜덤성에 기반한 일라이자 알고리즘!</p>
-      <a class="download-button" href="(https://github.com/yorirun/-/blob/main/%EB%B1%80%EC%B2%98%EB%9F%BC%20%EC%9A%94%EB%A6%AC%EC%A1%B0%EB%A6%AC/ELIZA.py)">확인하기</a>
+      <h2>깃허브로 하는 일</h2>
+      <h1>주로 동아리등 포트폴리오용 활동을 저장하고있습니다!</h1>
+      
     </div>
  
 <!--
