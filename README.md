@@ -9,11 +9,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt = "github!">
 <div>
  
-<div class="object-card">
+
       <h2>깃허브로 하는 일</h2>
       <h1>주로 동아리등 포트폴리오용 활동을 저장하고있습니다!</h1>
-      
-    </div>
+ 
+ <script> alert("why don't you check my repository?") </script>
  
 <!--
 **yorirun/yorirun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
