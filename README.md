@@ -13,6 +13,7 @@
       <h1>주로 동아리등 포트폴리오용 활동을 저장하고있습니다!</h1>
  
  <script> alert("why don't you check my repository?") </script>
+ <br>
  
  사랑하는 언어  : <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
  
