@@ -6,8 +6,12 @@
  </div>
 
 <div>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" onclick = "https://github.com/yorirun">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt = "github!">
 <div>
+ 
+<script>
+ alrert(1)
+ </script>
  
 <!--
 **yorirun/yorirun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
