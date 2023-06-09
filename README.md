@@ -4,10 +4,7 @@
 <h1>**yorirun** is a ✨ _special_ ✨</h1>
  </div>
  
- <style>
-  h1 {
-    font.size = "74"
-  }
- </style>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+ 
 <!--
 **yorirun/yorirun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
