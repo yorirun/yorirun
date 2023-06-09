@@ -9,9 +9,11 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt = "github!">
 <div>
  
-<script>
- alrert(1)
- </script>
+<div class="object-card">
+      <h2>추천</h2>
+      <p>랜덤성에 기반한 일라이자 알고리즘!</p>
+      <a class="download-button" href="(https://github.com/yorirun/-/blob/main/%EB%B1%80%EC%B2%98%EB%9F%BC%20%EC%9A%94%EB%A6%AC%EC%A1%B0%EB%A6%AC/ELIZA.py)">확인하기</a>
+    </div>
  
 <!--
 **yorirun/yorirun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
